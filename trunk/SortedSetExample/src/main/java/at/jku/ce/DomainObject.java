@@ -7,7 +7,7 @@ public class DomainObject {
         super();
         this.id = id;
     }
-
+    /** * Default constructor */
     public DomainObject() {
         super();
     }
